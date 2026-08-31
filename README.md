@@ -66,7 +66,7 @@ On startup, the script checks for unzip, sed, and find. If everything's already 
 ### Choosing a Cursor
 Put your `.png` file anywhere inside `~/Downloads` including subfolders then run the script and choose option `[1]`. It will list every `.png` image it finds, with its path relative to `~/Downloads`. Pick a number, confirm, and it does the rest.
 
-You'll be asked if you want to back up your current cursor textures first—recommended, especially the first time.
+You'll be asked if you want to back up your current cursor textures first recommended, especially the first time.
 
 ### Restoring a Backup
 
