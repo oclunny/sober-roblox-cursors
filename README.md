@@ -61,7 +61,7 @@ On startup, the script checks for unzip, sed, and find. If everything's already 
 - List what's missing
 - Ask **"Install the missing packages now? [Y/n]"**
 - If you say yes, it detects your package manager (`apt`, `dnf`, `pacman`, `zypper`, or `apk`) and installs the right packages for your distro, using sudo if needed
-- If you say no, it skips installation and continues straight on to the cursor-changing steps (a later step may fail and tell you which tool it needed)
+- If you say no, it skips installation and continues straight on to the cursor changing steps (a later step may fail and tell you which tool it needed)
 
 ### Choosing a Cursor
 Put your `.png` file anywhere inside `~/Downloads` including subfolders then run the script and choose option `[1]`. It will list every `.png` image it finds, with its path relative to `~/Downloads`. Pick a number, confirm, and it does the rest.
