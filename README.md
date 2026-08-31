@@ -39,9 +39,9 @@ assets/content/textures/
 ```
 Rather than editing the APK itself, this script:
 
-1. Extracts baseline cursor textures from base.apk into Sober's asset overlay folder to build the original directory structure.
-2.Copies your chosen `.png` image into the overlay across standard active mouse and shift-lock cursor paths (such as ArrowCursor.png, ArrowFarCursor.png, and MouseLockedCursor.png).
-3.Because Sober reads the asset overlay on top of the real APK, none of this touches the original Roblox files—it can be undone at any time by clearing the overlay or restoring a backup.
+1. Extracts baseline cursor textures from `base.apk` into Sober's asset overlay folder to build the original directory structure.
+2. Copies your chosen `.png` image into the overlay across standard active mouse and shift-lock cursor paths (such as `ArrowCursor.png`, `ArrowFarCursor.png`, and `MouseLockedCursor.png`).
+3. Because Sober reads the asset overlay on top of the real APK, none of this touches the original Roblox files it can be undone at any time by clearing the overlay or restoring a backup.
 
 ### Usage
 
