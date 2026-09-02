@@ -48,7 +48,7 @@ Rather than editing the APK itself, this script:
 Clone the repo and run the script:
 
 ```Bash
-git clone [https://github.com/oclunny/sober-roblox-cursors.git](https://github.com/oclunny/sober-roblox-cursors.git)
+git clone https://github.com/oclunny/sober-roblox-cursors.git
 cd sober-roblox-cursors
 chmod +x change-cursor-byclunny.sh
 ./change-cursor-byclunny.sh
